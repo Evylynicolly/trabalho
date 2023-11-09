@@ -1,4 +1,9 @@
-
+/* Reset de estilos padrão do navegador */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 /* Estilo padrão do corpo da página */
 body {
     font-family: Arial, sans-serif;
