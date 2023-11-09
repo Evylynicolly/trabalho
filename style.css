@@ -1,7 +1,7 @@
 /* Reset de estilos padrão do navegador */
 * {
-    margin: 0;
-    padding: 0;
+    margin: 05px;
+    padding: 05px;
     box-sizing: border-box;
 }
 /* Estilo padrão do corpo da página */
