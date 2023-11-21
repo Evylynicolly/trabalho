@@ -1,7 +1,7 @@
 /* Reset de estilos padrão do navegador */
 * {
-    margin: 0;
-    padding: 0;
+    margin: 05px;
+    padding: 05px;
     box-sizing: border-box;
 }
 /* Estilo padrão do corpo da página */
@@ -62,7 +62,7 @@ a {
     color: #007bff;
 }
 
-.img {
-    width: 100%;
-    height: 250px;
-}
+img {
+    width: 90%;
+    height: 150px; /* Substitua pelo valor desejado */
+  }
