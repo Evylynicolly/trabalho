@@ -64,10 +64,10 @@ a {
 
 img {
     width: 100%;
-    height: 200px; /* Substitua 200px pelo valor desejado para a altura */
+    height: 300px; /* Substitua pelo valor desejado */
+    display: block; /* Garante que a margem automática funcione corretamente */
     margin-left: auto;
-    margin-right: auto;
-
+    margin-right: auto;
   }
 
   h1{
